@@ -1,0 +1,17 @@
+.fondo {
+  background-color: #FFB834; }
+
+.fondo2 {
+  background-image: url(../fondo.jpeg); }
+
+.fondo4 {
+  background-image: url(../fondo5.jpg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  height: 600px !important; }
+
+.fondoSec {
+  background-color: #252525 !important; }
+
+.header_menu_logo {
+  width: 100px; }
